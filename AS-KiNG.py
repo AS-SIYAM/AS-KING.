@@ -404,25 +404,25 @@ logo = ("""\033[1;32m
     POWERD BY ABU-SIYAM
  ╚═════════════════════════════╝
 
-Tool Has Been Updated
+ Tool Has Been Updated
 
-    ╔═════════════════════════════╗
+ ╔═════════════════════════════╗
 
-    ╠══[Author   : MD.ABU-SIYAM   ║
+ ╠══[Author   : MD.ABU-SIYAM   ║
 
-    ╠══[Love     : AKHI ISLAM     ║
+ ╠══[Love     : AKHI ISLAM     ║
 
-    ╠══[FACEBOOK : MD ABU SIYAM   ║
+ ╠══[FACEBOOK : MD ABU SIYAM   ║
 
-    ╠══[CREATED  : A.SIYAM        ║
+ ╠══[CREATED  : A.SIYAM        ║
 
-    ╠══[NETWORK  : SPEED 4G       ║
+ ╠══[NETWORK  : SPEED 4G       ║
 
-    ╠══[TOOLS    : FREE           ║
+ ╠══[TOOLS    : FREE           ║
 
-    ╠══[VERSION  : 0.01           ║
+ ╠══[VERSION  : 0.01           ║
 
-    ╚═════════════════════════════╝\033[1;37m""")
+ ╚═════════════════════════════╝\033[1;37m""")
 
 class Main:
 	def __init__(self):
